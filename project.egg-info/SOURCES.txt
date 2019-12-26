@@ -1,0 +1,15 @@
+setup.py
+cote_spider/__init__.py
+cote_spider/items.py
+cote_spider/middlewares.py
+cote_spider/pipelines.py
+cote_spider/settings.py
+cote_spider/spiders/__init__.py
+cote_spider/spiders/example.py
+cote_spider/spiders/q.py
+cote_spider/spiders/quotes.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
